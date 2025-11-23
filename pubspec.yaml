@@ -39,7 +39,7 @@ dependencies:
   share_plus: ^10.0.2
   syncfusion_flutter_xlsio: ^31.1.19
   onesignal_flutter: ^5.3.4
-  firebase_core: ^4.2.1
+  # firebase_core: ^4.2.1
 
 dev_dependencies:
   flutter_test:
